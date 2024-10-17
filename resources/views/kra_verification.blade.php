@@ -35,7 +35,7 @@
                         <p><strong>ID Type:</strong> {{ $response['IDType'] }}</p>
                         <p><strong>ID Number:</strong> {{ $response['IDNumber'] }}</p>
                         <p><strong>Country:</strong> {{ $response['Country'] }}</p>
-                        <!-- Add more fields as necessary -->
+                       
                     </div>
                 @else
                     <div class="alert alert-danger">
