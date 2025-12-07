@@ -22,7 +22,7 @@ A Laravel-based application for identity verification and KRA PIN validation usi
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:bravonokoth/SmileId.git
    cd SmileId
    ```
 
